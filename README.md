@@ -1,2 +1,1 @@
-# ocellus
-A horror game without graphics
+# this game does not exist
